@@ -1,4 +1,4 @@
-AI Guru Website Testing Project
+<b>AI Guru Website Testing Project</b>
 
 <b>Project Overview</b>
 
