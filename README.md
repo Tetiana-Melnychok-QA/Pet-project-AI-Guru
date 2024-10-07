@@ -96,6 +96,16 @@ I tested usability and UI across various devices to ensure a seamless user exper
 <b><br>Files and Documentation</br></b>
 <br>All test case details, results, and additional documentation can be found in the corresponding folders of this repository.</br>
 
+<b><br>License</b></br>
+<br>This project is licensed for educational and non-commercial purposes only, with permission from the website owner for testing. Redistribution is prohibited.</br>
+
+<b><br>Repository Structure</br></b>
+<b><br>•	Test Suites:</b> Located in the test_suites folder.</br>
+<b><br>•	Checklist of the UI Testing</b> located in the UI_Testing folder.</br>
+<b><br>•	Checklist of the UX Testing </b> located in the UX_Testing folder.</br>
+<b><br>•	Bugs: </b>located in the Bugs folder.</br>
+<b><br>•	Test Reports:</b> Available in the test_reports folder.</br>
+<b><br>•	Screenshots:</b> Saved in the screenshots folder for easy reference.</br>
 
 
 
