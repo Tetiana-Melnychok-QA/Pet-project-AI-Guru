@@ -96,11 +96,9 @@ I tested usability and UI across various devices to ensure a seamless user exper
 <b><br>Files and Documentation</br></b>
 <br>All test case details, results, and additional documentation can be found in the corresponding folders of this repository.</br>
 
-<b><br>Contacts</b></br>
-<b><br>•	Melnychok Tetiana<b> — tetiana.melnychok.qa@gmail.com</br>
-<b><br>License</br></b>
 
-This project is licensed for educational and non-commercial purposes only, with permission from the website owner for testing. Redistribution is prohibited.
+
+
 
 
 
